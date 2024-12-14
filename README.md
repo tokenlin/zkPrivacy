@@ -1,3 +1,7 @@
+# Project Link
+- pitch link: https://pitch.com/v/zkprivacy-wjmanh/35124212-b196-4824-b8dd-f825ebbbcddc
+- demo website: https://tokenlin.github.io/zkPrivacy/
+- demo-video link:  https://www.youtube.com/watch?v=WLSbpNwPU_w
 
 
 # zkPrivacy Protocol - Short description
